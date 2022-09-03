@@ -7,4 +7,4 @@
 Usuario registrado para agilizar proceso <br/>
 Correo: calendar@gmail.com <br/>
 Password: 1234567 <br/>
-<a href="https://mern-calendar-app-v1.herokuapp.com/auth/login" target="_BLANCK>Link aquí</a>
+<a href="https://mern-calendar-app-v1.herokuapp.com/auth/login" target="_BLANCK">Link aquí</a>
